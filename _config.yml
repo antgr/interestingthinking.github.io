@@ -1,0 +1,7 @@
+title: Interesting Thinking
+email: fake@email.com
+description: Σκέψεις, τεχνολογία, AI, στρατηγική, ζωή
+baseurl: "" # μην το πειράξεις
+url: "https://interestingthinking.github.io"
+
+theme: minima
